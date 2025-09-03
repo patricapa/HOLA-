@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PATRIC", "PATRIC\PATRIC.csproj", "{D2DCE211-F7D2-4C56-9E8D-AA6758305E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DCE211-F7D2-4C56-9E8D-AA6758305E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DCE211-F7D2-4C56-9E8D-AA6758305E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DCE211-F7D2-4C56-9E8D-AA6758305E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DCE211-F7D2-4C56-9E8D-AA6758305E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E846CB-81EA-4210-9A80-F8BC1E76DC85}
+	EndGlobalSection
+EndGlobal
